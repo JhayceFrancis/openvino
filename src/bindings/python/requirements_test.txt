@@ -36,3 +36,4 @@ retrying
 tox
 types-pkg_resources
 wheel
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
