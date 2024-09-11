@@ -5,7 +5,7 @@
   "devDependencies": {
     "args": "^5.0.3",
     "canvas": "^2.11.2",
-    "eslint": "^8.39.0",
+    "eslint": "^9.0.0",
     "https-proxy-agent": "^7.0.2",
     "opencv-wasm": "^4.3.0-10",
     "openvino-node": "file:../../../src/bindings/js/node/"
