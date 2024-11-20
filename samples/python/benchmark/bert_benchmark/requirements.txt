@@ -3,7 +3,7 @@ transformers[onnx]; python_version < "3.11"
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 transformers>=4.36.0 # not directly required, pinned by Snyk to avoid a vulnerability
-aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
 numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
 pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
